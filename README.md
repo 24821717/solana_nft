@@ -1,1 +1,1 @@
-# solana_nft
+# solana-nft-mint
